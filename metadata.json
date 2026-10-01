@@ -1,0 +1,6 @@
+{
+  "name": "VIDIEMS ClinicLedger - Relational Database Schema & Architecture Studio",
+  "description": "Production-grade SQL relational database schema, interactive ERD, and multi-channel financial ledger engine for VIDIEMS ClinicLedger hospital management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
